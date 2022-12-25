@@ -1,0 +1,25 @@
+{
+  "name": "online-store-data",
+  "version": "1.0.0",
+  "description": "Json file for online-store task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewMotevich/online-store-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewMotevich/online-store-data/issues"
+  },
+  "homepage": "https://github.com/AndrewMotevich/online-store-data#readme",
+  "devDependencies": {
+    "octokit": "^2.0.10",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
